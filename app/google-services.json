@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "77378459268",
+    "project_id": "memorymatch-493bf",
+    "storage_bucket": "memorymatch-493bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77378459268:android:7ba121933eec0d446254d1",
+        "android_client_info": {
+          "package_name": "aus10.games.memorygame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77378459268-k4qpa39qrl1v4eka9f4h3klpch32llbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aus10.games.memorygame",
+            "certificate_hash": "614e4be93489ebbf364e572fed58dbbf7e810401"
+          }
+        },
+        {
+          "client_id": "77378459268-ns2vubf2d8kcvs8ronevu9ut190u74f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARzdRVCY86IcgHmRh02eGY3O8mBdvb9qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77378459268-ns2vubf2d8kcvs8ronevu9ut190u74f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
