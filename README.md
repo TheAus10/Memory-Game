@@ -1,6 +1,6 @@
 # Memory-Game
 
-*app is currently in review for the Google Play Store
+*The app is available for download in the [Google Play Store](https://play.google.com/store/apps/details?id=aus10.games.memorygame).*
 
 ### Overview
 This application was developed using Android Studio and Google's Firebase.
